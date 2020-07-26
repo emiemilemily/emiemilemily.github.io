@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About Us
-subtitle: 
+title: Why We Started
+subtitle: (and why in Kansas)
 ---
 
-## Why We Started:
-### (and why in Kansas)
 
 The establishment of the **Global Restoration Project** in 2020 - and in particular its initial location in Kansas - reflects several sources of inspiration: 
 * Kansas has started taking **alternative-energy initiatives**, including a remarkably robust development of wind-generated energy.  Just over the past x year, y has happened.  Importantly, the Global Restoration project **opposes** all wind-gnerated energy that (i) intereres significantly with wildlife habitat, (ii) costs more (when externalities are captured) that it yields, and/or (iii) creates out-of-human-scale landscapes.  But to the extent that wind, solar, geo-thermal, or other energy initiatives offer valid alternatives to fossil-carbon-based energy, we support it. 
