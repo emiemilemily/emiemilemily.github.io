@@ -39,8 +39,8 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "contact@globalrestorationproject.org"
-  facebook: deanattali
-  github: daattali
+  facebook: kulawschool
+ # github: daattali
   twitter: daattali
   rss: true
 #  reddit: yourname
