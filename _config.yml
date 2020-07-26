@@ -13,6 +13,8 @@ title: The Global Restoration Project
 
 navbar-links:
   About Us: "aboutme"
+    - Why We Started: "https://google.com"
+    - What We Do: "https://google.com"
   Contacts:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
