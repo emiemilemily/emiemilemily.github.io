@@ -12,8 +12,8 @@ title: The Global Restoration Project
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: "aboutme"
-    - Why We Started: "https://google.com"
+  About Us: 
+    - Why We Started: "aboutme"
     - What We Do: "https://google.com"
   Contacts:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
