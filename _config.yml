@@ -13,12 +13,12 @@ title: The Global Restoration Project
 
 navbar-links:
   About Us: 
-    - Why We Started: "aboutme"
+    - Why We Started: "whywestarted"
     - What We Do: "https://google.com"
   Contacts:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Publications and Papers: "https://deanattali.com"
+  Blog: blog
 
 # --- Logo --- #
 
