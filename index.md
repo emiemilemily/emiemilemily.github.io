@@ -1,6 +1,7 @@
 ---
 layout: page
-cover-img: /assets/img/Mountains_Cover.png
+Title: The Global Restoration Project
+cover-img: /assets/img/Rice_Field_Landscape_Full_Size_GRP.jpg
 ---
 
 
