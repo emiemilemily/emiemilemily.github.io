@@ -1,6 +1,6 @@
 ---
 layout: post
-title: THe Great Climate Migration has Begun
+title: The Great Climate Migration has Begun
 subtitle: A piece from the NYTimes
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
