@@ -14,7 +14,7 @@ title: The Global Restoration Project
 navbar-links:
   About Us: 
     - Why We Started: "whywestarted"
-    - What We Do: "https://google.com"
+    - What We Believe: "whatwebelieve"
   Contacts:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -44,7 +44,7 @@ social-network-links:
   facebook: kulawschool
  # github: daattali
   twitter: daattali
-  rss: true
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
