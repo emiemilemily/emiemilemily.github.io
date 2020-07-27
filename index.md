@@ -1,6 +1,7 @@
 ---
 layout: page
-Title: The Global Restoration Project
+title: The Global Restoration Project
+subtitle:
 cover-img: /assets/img/Rice_Field_Landscape_Full_Size_GRP.jpg
 ---
 
