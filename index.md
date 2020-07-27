@@ -5,9 +5,10 @@ subtitle:
 cover-img: /assets/img/Mountains_Cover.png
 ---
 
+
 ### Renewable
 
-### **E**nergy; 
+### Energy; 
 
 ### Sustainable 
 
