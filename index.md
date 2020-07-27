@@ -2,7 +2,7 @@
 layout: page
 title: 
 subtitle: 
-cover-img: /assets/img/
+cover-img: /assets/img/Organic_Cover.png
 ---
 
 this is a test of the landing page
