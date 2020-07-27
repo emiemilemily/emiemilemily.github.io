@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Why We Started
-subtitle: (and why in Kansas)
+title: 
+subtitle: 
+cover-img: /assets/img/
 ---
 
 this is a test of the landing page
