@@ -2,7 +2,7 @@
 layout: page
 title: 
 subtitle: 
-cover-img: /assets/img/Rice_Field_Cover.png
+cover-img: /assets/img/Mountains_Cover.png
 ---
 
 this is a test of the landing page
