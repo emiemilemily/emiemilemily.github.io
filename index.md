@@ -6,24 +6,6 @@ cover-img: /assets/img/Rice_Field_Landscape_Full_Size_GRP.jpg
 ---
 
 
-### Renewable
+A global interdisciplinary initiative to help create a future of Responsible Energy, Smart Technology, Organic Restorative Agroecology, and Territorially Integrated Operational Networks to save a living planet Earth.
 
-### Energy; 
-
-### Sustainable 
-
-### Technology;
-
-### Organic & 
-
-### Resilient
-
-### Agroecology;
-
-### Territorially
-
-### Integrated
-
-### Operational
-
-### Networks
+![test](/assets/img/Restoration_Acronym_Rough.png)
