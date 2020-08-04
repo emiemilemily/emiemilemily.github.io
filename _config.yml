@@ -15,6 +15,7 @@ navbar-links:
   About Us: 
     - Why We Started: "whywestarted"
     - What We Believe: "whatwebelieve"
+    - What We Do: "whatwedo"
   Contacts:
     - Personnel: "https://www.google.com"
     - Partners: "https://www.markdowntutorial.com/"
