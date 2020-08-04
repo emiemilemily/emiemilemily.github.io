@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: What We Do
 subtitle: A piece from the NYTimes
 cover-img: /assets/img/path.jpg
