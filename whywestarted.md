@@ -12,4 +12,4 @@ The establishment of the **Global Restoration Project** in 2020 - and in particu
 
 * Turning to **agroecology**:  Kansas is the home state for The Land Institute, the world's leading research institute for developing perennial grains (e.g. Kernza) and now is focusing also on developing the mixtures (polycultures) of sepcies in which those perennial grains can be most productive.  Embracing, but moving beyond, the values of "organic" agriculture, researchers at The Land Institute have built noteworthy momentum both on the perennialization front and on the polyculture/ecology front - leading now to a growing acknowledgement in the scientific community that a natural-systems form of agriculture is both resilient and feasible. 
 
-* On his restirement from a widely-renwonwed legal academic career, Professor George Coggins of the University of Kansas authored a book entited *Restoration*. 
+* On his restirement from a widely-renonwed legal academic career, Professor George Coggins of the University of Kansas authored a book entited *Restoration*. 
