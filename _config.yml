@@ -19,9 +19,9 @@ navbar-links:
     - Future We're Building: "thefuture"
   Contact:
     - Personnel: "personnel"
-    - Other Organizations: "organizations"
+    - Organizations: "organizations"
   Papers and Publications: 
-    - Publications: "https://google.com"
+    - Publications: "publications"
     - Recent Developments & Posts: blog
 
 # --- Logo --- #
