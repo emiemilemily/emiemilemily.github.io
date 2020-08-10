@@ -17,8 +17,8 @@ navbar-links:
     - What We Believe: "whatwebelieve"
     - What We Do: "whatwedo"
     - The Future We're Building: "thefuture"
-  Contacts:
-    - Personnel: "https://www.google.com"
+  Contact:
+    - Personnel: "personnel"
     - Partners: "https://www.markdowntutorial.com/"
   Papers and Publications: blog
 
