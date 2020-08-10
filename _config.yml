@@ -19,8 +19,10 @@ navbar-links:
     - Future We're Building: "thefuture"
   Contact:
     - Personnel: "personnel"
-    - Partners: "https://www.markdowntutorial.com/"
-  Papers and Publications: blog
+    - Other Organizations: "organizations"
+  Papers and Publications: 
+    - Publications: "https://google.com"
+    - Recent Developments & Posts: blog
 
 # --- Logo --- #
 
