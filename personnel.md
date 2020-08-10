@@ -4,8 +4,8 @@ title: Personnel
 cover-img: /assets/img/farm_field.jpg
 ---
 
-##### John W. Head
-!(/assets/img/professor_head_headshot.jpg)
+#### John W. Head
+![](/assets/img/professor_head_headshot.jpg)
 
 John W. Head holds the Robert W. Wagstaff Distinguished Professorship at the University of Kansas, where he concentrates on international and comparative law.  
 He earned his undergraduate degree from the University of Missouri at Columbia, an English law degree from Oxford University (1977), and his US law degree from the
