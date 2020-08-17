@@ -2,7 +2,7 @@
 layout: page
 title: Welcome
 subtitle: The Global Restoration Project
-cover-img: /assets/img/Cropland_Wheat_Header.jpg
+cover-img: /assets/img/Pasture.jpg
 ---
 
 
