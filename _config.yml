@@ -12,17 +12,18 @@ title: The Global Restoration Project
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: 
+  About: 
     - Why We Started: "whywestarted"
     - What We Believe: "whatwebelieve"
     - What We Do: "whatwedo"
     - Future We're Building: "thefuture"
-  Contact:
+  People:
     - Personnel: "personnel"
     - Partners: "organizations"
-  Papers and Publications: 
+  Papers & Publications: 
     - Publications: "publications"
-    - Recent Developments & Posts: blog
+    - Working Papers: "https://www.google.com/"
+   Blog: blog
 
 # --- Logo --- #
 
