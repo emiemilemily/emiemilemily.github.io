@@ -23,7 +23,7 @@ navbar-links:
   Papers & Publications: 
     - Publications: "publications"
     - Working Papers: "https://www.google.com/"
-   Blog: blog
+  Blog: blog
 
 # --- Logo --- #
 
