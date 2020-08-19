@@ -17,12 +17,13 @@ navbar-links:
     - What We Believe: "whatwebelieve"
     - What We Do: "whatwedo"
     - Future We're Building: "thefuture"
-  People:
+  Contact:
     - Personnel: "personnel"
-    - Partners: "organizations"
+    - Partners & Affiliates: "organizations"
   Papers & Publications: 
     - Publications: "publications"
     - Working Papers: "https://www.google.com/"
+  Linkages: "linkages"
   Blog: blog
 
 # --- Logo --- #
