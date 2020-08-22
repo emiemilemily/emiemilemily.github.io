@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why We Started
-subtitle: (and why in Kansas)
+subtitle: And why in Kansas
 ---
 
 
@@ -10,6 +10,6 @@ The establishment of the **Global Restoration Project** in 2020 - and in particu
 
 * **Technological innovation** abounds in Kansas, as evidenced by its aviation and agriculture industries.  Wichita has long been a robust hub of aerospace design and manufacturing and Kansas is at the forefront of agricultural science and technology, led by efforts at Kansas State University.  Notably, some such technology runs in the wrong direction, and we reject the view that technology will provide some "silver bullet" to relieve this generation of humans of its responsibility to relieve this generation of humans of its responsibility to reverse environmental degradation and to restore natural system on a planetary scale.  Still, we support smart technological innovation that will allow for a localized, resilient, sustainable, human-scale reintegration of our own species into processes and relationships that make ours a living planet. 
 
-* Turning to **agroecology**:  Kansas is the home state for The Land Institute, the world's leading research institute for developing perennial grains (e.g. Kernza).  Now, the Land Institute is focusing also on developing the mixtures (polycultures) of species in which those perennial grains can be most productive.  Embracing, but moving beyond, the values of "organic" agriculture, researchers at The Land Institute have built noteworthy momentum both on the perennialization front and on the polyculture/ecology front - leading now to a growing acknowledgement in the scientific community that a natural-systems form of agriculture is both resilient and feasible. 
+* Turning to **agroecology**:  Kansas is the home state for The Land Institute, the world's leading research institute for developing perennial grains, such as Kernza (*R*).  Now, the Land Institute is focusing also on developing the mixtures (polycultures) of species in which those perennial grains can be most productive.  Embracing, but moving beyond, the values of "organic" agriculture, researchers at The Land Institute have built noteworthy momentum both on the perennialization front and on the polyculture/ecology front - leading now to a growing acknowledgement in the scientific community that a natural-systems form of agriculture is both resilient and feasible. 
 
-* On his retirement from a widely-renonwed legal academic career, Professor George Coggins of the University of Kansas authored a book entitled *Restoration*. 
+* On his retirement from a widely-renowned legal academic career, Professor George Coggins of the University of Kansas authored a book entitled *Restoration*. 
