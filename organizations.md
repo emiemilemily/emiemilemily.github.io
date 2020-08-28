@@ -2,7 +2,7 @@
 layout: page
 title: Partners and Affiliates
 subtitle: With Whom We Share Goals
-cover-img: /assets/img/rice_grains_green.jpg
+cover-img: /assets/img/Storm_Over_Field.jpg
 ---
 * Tim Crews
 
