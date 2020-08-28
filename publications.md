@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications 
-cover-img: /assets/img/GRP_purple_prairie_cropped
+cover-img: /assets/img/GRP_purple_prairie_cropped.jpg
 ---
 
 #### [Global Legal Regimes to Protect the World's Grasslands](https://cap-press.com/books/isbn/9781594609671/Global-Legal-Regimes-to-Protect-the-Worlds-Grasslands)
