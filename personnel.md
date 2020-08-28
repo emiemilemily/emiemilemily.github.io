@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personnel
-cover-img: /assets/img/farm_field.jpg
+cover-img: /assets/img/pasture_crop.jpg
 ---
 
 #### John W. Head
