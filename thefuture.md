@@ -2,7 +2,7 @@
 layout: page
 title: The Future We Plan To Help Build
 subtitle: And How You Can Participate
-cover-img: /assets/img/Blue_Gray_Moon_Nighttime.jpg
+cover-img: /assets/img/Green_Grassland_Path_Crop.jpg
 ---
 There are no simple solutions to the existential threats posed by the agricultural crisis and climate crisis. These crises stem from humanity’s ecological, ethical, and social problems that disregard the living planet we share with other species.  Such fundamental problems require radical solutions. We have no predetermined, specific designs to promote or endorse. 
 
