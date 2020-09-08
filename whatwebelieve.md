@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What We Believe
+cover-img: /assets/img/rice_field_panorama.jpg
 ---
 
 The theme that connects the **first three components** of the Global Restoration Project - that is, its focus on (1) responsible energy, (2) smart technology, and (3) a new natural-systems agriculture (organic and resilient agroecology) - is that all of these components have **ecological protection** as their overriding aim.  Participants in the Global Restoration Project are committed to take action that will reverse the ecological degradation that has marked much of the last two centuries, in Kansas as well as the rest of the world.  
