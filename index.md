@@ -15,5 +15,8 @@ cover-img: /assets/img/tree_earth.jpg
 ![test](/assets/img/TION.jpg)
 
 
+Cover image: Johan Swanepoel\shutterstock.com
+
+
 
 
