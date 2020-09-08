@@ -10,7 +10,7 @@ cover-img: /assets/img/tree_earth.jpg
 
 ![test](/assets/img/ST.jpg)
 
-![test](/assets/img/OR.jpg)
+![test](/assets/img/ORA.jpg)
 
 ![test](/assets/img/TION.jpg)
 
