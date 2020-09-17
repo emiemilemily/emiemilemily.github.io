@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personnel
-cover-img: /assets/img/Storm_Over_Field.jpg
+cover-img: /assets/img/green_gray_prairie_original.jpg
 ---
 
 #### John W. Head
