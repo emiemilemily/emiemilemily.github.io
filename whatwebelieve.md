@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What We Believe
+subtitle:  Eco-centric reformation
 cover-img: /assets/img/rice_field_panorama.jpg
 ---
 
