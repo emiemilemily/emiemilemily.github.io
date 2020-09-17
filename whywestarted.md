@@ -2,6 +2,7 @@
 layout: page
 title: Why We Started
 subtitle: And why in Kansas
+cover-img: /assets/img/sunflower_sunset_original.jpg
 ---
 
 
