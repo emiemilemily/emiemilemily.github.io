@@ -15,7 +15,7 @@ cover-img: /assets/img/homepage.jpg
 ![test](/assets/img/TION.jpg)
 
 
-Cover image: Johan Swanepoel\shutterstock.com
+Cover image: lovelyday12/shutterstock.com
 
 
 
