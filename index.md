@@ -5,7 +5,7 @@ subtitle: The Global Restoration Project
 cover-img: /assets/img/homepage.jpg
 ---
 
-The Global Restoration Project is a global interdisciplinary initiative to help create a future of RESTORATION to save a living planet Earth: Responsible Energy, Smart Technology, Organic Restorative Agroecology, and Territorially Integrated Operational Networks.
+![test](/assets/img/home_page_body.png)
 
 ![test](/assets/img/RE.jpg)
 
