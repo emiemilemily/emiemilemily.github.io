@@ -5,7 +5,7 @@ subtitle: A piece from the New York Times
 cover-img: /assets/img/green_wheat_canola_field.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [current_events]
 ---
 
 This is an example blog post. 
