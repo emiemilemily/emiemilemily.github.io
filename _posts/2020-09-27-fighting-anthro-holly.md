@@ -7,7 +7,10 @@ thumbnail-img: /assets/img/person_tossing_globe.jpg
 share-img: /assets/img/path.jpg
 tags: [invited_essays]
 ---
-Fighting the Anthropocene
+#### Fighting the Anthropocene
+
+Author:  Holly Aker
+
 Technically, the decision of whether or not humans have shifted our current epoch to a point where it earns a separate place on the geological time scale is a 
 determination by physical science. The designation can only occur if a series of votes by bodies of geologists favor the distinction. These geologists are looking 
 for some moment within the geological record where physical, chemical, and biological processes transitioned our world out of the Holocene and into something different, 
