@@ -2,8 +2,8 @@
 layout: post
 title: Inching Forward
 subtitle: Legislative Steps Toward Sustainable Agriculture in the United States
-cover-img: /assets/img/green_wheat_canola_field.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/plant_growing_bokeh.jpg
+thumbnail-img: /assets/img/plant_growing_bokeh.jpg
 share-img: /assets/img/wheat_canola_field.jpg
 tags: [US, policy, working_paper]
 ---
@@ -85,7 +85,7 @@ In sum: If the goal is (as it should be) to make a clean break with conventional
 **[Farmer Driven Conservation Outcomes Act](https://www.congress.gov/bill/116th-congress/house-bill/6182?q=%7B%22search%22%3A%5B%22h+res+446%22%5D%7D&s=1&r=4)** 
 (H.R. 6182, Introduced Mar. 2020): This bill would strengthen federal conservation programs by authorizing and providing funding for the measurement, evaluation, and reporting of USDA’s farm bill conservation program outcomes.  
 
-
+Cover image: shutterstock/Arthon.Meekodong
 
 
 
