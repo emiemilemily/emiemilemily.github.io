@@ -36,7 +36,7 @@ In sum: If the goal is (as it should be) to make a clean break with conventional
 
 **[Organic Food Production Act](https://www.ams.usda.gov/sites/default/files/media/Organic%20Foods%20Production%20Act%20of%201990%20(OFPA).pdf)** (1990): This program stablished uniform national standards for the production and handling of organic food. The Act authorized a new USDA National Organic Program (NOP) to set national standards for the production, handling, and processing of organically grown agricultural products. 
 
-**[Environmental Quality Incentives Program](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/financial/eqip/?cid=nrcs144p2_037436)** 1996	EQUIP is a conservation program providing primarily cost-sharing assistance, but also technical and educational assistance, aimed at promoting production and environmental quality, and optimizing environmental benefits. 
+**[Environmental Quality Incentives Program](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/financial/eqip/?cid=nrcs144p2_037436)** (1996):	EQUIP is a conservation program providing primarily cost-sharing assistance, but also technical and educational assistance, aimed at promoting production and environmental quality, and optimizing environmental benefits. 
 
 **[National Natural Resources Conservation Program](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/)** (1996): This program provides conservation districts and other conservation organizations funding for research, educational programs, and public outreach. 
 
