@@ -22,8 +22,8 @@ navbar-links:
     - Partners & Affiliates: "organizations"
   Linkages: "linkages"
   Our Work: 
-    -Essays & Working Papers: blog
-    -Publications: "publications"
+    - Essays & Working Papers: blog
+    - Publications: "publications"
 
 # --- Logo --- #
 
