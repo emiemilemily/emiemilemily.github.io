@@ -7,6 +7,8 @@ cover-img: /assets/img/homepage.jpg
 
 ![test](/assets/img/home_page_body.png)
 
+[View our latest work here](https://emiemilemily.github.io/2020-09-27-us-legislation-mk/)
+
 ![test](/assets/img/RE.jpg)
 
 ![test](/assets/img/ST.jpg)
