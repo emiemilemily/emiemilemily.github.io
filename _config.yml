@@ -20,10 +20,11 @@ navbar-links:
   Contact:
     - Personnel: "personnel"
     - Partners & Affiliates: "organizations"
-  Linkages: "linkages"
-  Our Work: 
-    - Essays & Working Papers: blog
+  Resources: 
+    - Linkages: "linkages"
     - Publications: "publications"
+  Our Work: blog
+    
 
 # --- Logo --- #
 
