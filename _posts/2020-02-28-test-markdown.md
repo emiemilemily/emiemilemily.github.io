@@ -3,7 +3,7 @@ layout: post
 title: Grasslands at Risk
 subtitle: International Legal Regimes to Balance the Protection of Prairies and Grasslands with Their Agricultural Use
 cover-img: /assets/img/stubble_sunset.jpg
-tags: [working_papers]
+tags: [working_paper]
 comments: true
 ---
 
