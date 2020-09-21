@@ -2,8 +2,8 @@
 layout: post
 title: Fighting the Anthropocene
 subtitle: Conceptualizing the Concept
-cover-img: /assets/img/green_wheat_canola_field.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/person_tossing_globe.jpg
+thumbnail-img: /assets/img/person_tossing_globe.jpg
 share-img: /assets/img/path.jpg
 tags: [invited_essays]
 ---
