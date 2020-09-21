@@ -5,7 +5,7 @@ subtitle:  Eco-centric reformation
 cover-img: /assets/img/rice_field_panorama.jpg
 ---
 
-The theme that connects the **first three components** of the Global Restoration Project - that is, its focus on (1) responsible energy, (2) smart technology, and (3) a new natural-systems agriculture (organic and resilient agroecology) - is that all of these components have **ecological protection** as their overriding aim.  Participants in the Global Restoration Project are committed to take action that will reverse the ecological degradation that has marked much of the last two centuries, in Kansas as well as the rest of the world.  
+##### The Global Restoration Projects believes that radical transformation of humanity's relationship with nature and, accordingly, a radical transformation of modern agriculture, is not only possible, but necessary, to save and restore a living planet earth.  We believe in an eco-centric approach to solving the climate crisis and the agricultural crisis that utilizes **Responsible Energy, Smart Technology, and a Organic and Resilient Agroecology** to develop a new natural-systems form of agriculture that will reverse  environmental degradation.   
 
 With this commitment, we seek answers to a fundamental question: how can humans today so order, or reorder, their lives in ways that will preserve the planet we share with other species?
 
