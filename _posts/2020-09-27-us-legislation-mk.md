@@ -5,7 +5,7 @@ subtitle: Legislative Steps Toward Sustainable Agriculture in the United States
 cover-img: /assets/img/green_wheat_canola_field.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/wheat_canola_field.jpg
-tags: [US, policy]
+tags: [US, policy, working_paper]
 ---
 ### Inching Forward: Legislative Steps Toward Sustainable Agriculture in the United States
 **Author:  Mary Kate Workman**
