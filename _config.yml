@@ -12,7 +12,7 @@ title: The Global Restoration Project
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: 
+  About Us: 
     - Why We Started: "whywestarted"
     - What We Believe: "whatwebelieve"
     - What We Do: "whatwedo"
@@ -20,11 +20,10 @@ navbar-links:
   Contact:
     - Personnel: "personnel"
     - Partners & Affiliates: "organizations"
-  Papers & Publications: 
-    - Publications: "publications"
-    - Working Papers: "https://www.google.com/"
   Linkages: "linkages"
-  Blog: blog
+  Our Work: 
+    -Essays & Working Papers: blog
+    -Publications: "publications"
 
 # --- Logo --- #
 
