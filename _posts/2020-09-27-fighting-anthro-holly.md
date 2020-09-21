@@ -32,7 +32,7 @@ entrepreneurs with ideas of how to use sustainability to change the human age in
 Policymakers are in a place to question the best approaches to the Anthropocene as well. This chart is a helpful visual representation of the different approaches at 
 the disposal of policymakers when adapting to or mitigating the consequences of the Anthropocene:
 
-![test](/assets/img/fighting_anthro_chart.png/)
+![test](/assets/img/fighting_antro_chart.png/)
  
  A point of potential interest is that some climate change/climate justice advocates are oppose the way we conceptualize of the Anthropocene for one reason or another. 
  In a recently released book, T.J. Demos critically scrutinizes the Anthropocene terminology as working in support of “neoliberal financialization of nature, 
