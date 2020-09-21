@@ -8,7 +8,7 @@ share-img: /assets/img/wheat_canola_field.jpg
 tags: [US, policy]
 ---
 ### Inching Forward: Legislative Steps Toward Sustainable Agriculture in the United States
-Author:  Mary Kate Workman
+**Author:  Mary Kate Workman**
 
 Conventional agriculture in the United States is harmful for the environment in that the primary crops produced are annual monocultures, which are planted and harvested in an extractive manner. Further, much of today’s conventional agriculture relies on pesticides for crops and antibiotics for livestock, resulting in chemical harm throughout entire ecosystems. While Congress has recognized the US is in need of more sustainable agriculture, the legislative steps taken may be too little too late. 
 
@@ -30,116 +30,62 @@ In sum: If the goal is (as it should be) to make a clean break with conventional
 
 ### **Some Examples of Sustainable Agriculture Legislation/Grants in the US**
 
-**[Conservation Reserve Program](https://www.fsa.usda.gov/programs-and-services/conservation-programs/conservation-reserve-program/)** (1985):  CRP is a land conservation program administered by FSA. In exchange for a yearly rental payment, farmers enrolled in the program agree to remove environmentally sensitive land from agricultural production and plant species that will improve environmental health and quality. 
+**[Conservation Reserve Program](https://www.fsa.usda.gov/programs-and-services/conservation-programs/conservation-reserve-program/)** (1985): CRP is a land conservation program administered by FSA. In exchange for a yearly rental payment, farmers enrolled in the program agree to remove environmentally sensitive land from agricultural production and plant species that will improve environmental health and quality. 
+
+**[Sustainable Agriculture Research & Agriculture Program](https://www.sare.org/)** (1988): Federal funding for projects to advance agricultural innovation that promotes profitability, stewardship of the land, air and water, and quality of life for farmers, ranchers and their communities. Primary grant programs include research and education grants, professional development grants and producer grants.
+
+**[Organic Food Production Act](https://www.ams.usda.gov/sites/default/files/media/Organic%20Foods%20Production%20Act%20of%201990%20(OFPA).pdf)** (1990): This program stablished uniform national standards for the production and handling of organic food. The Act authorized a new USDA National Organic Program (NOP) to set national standards for the production, handling, and processing of organically grown agricultural products. 
+
+**[Environmental Quality Incentives Program](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/financial/eqip/?cid=nrcs144p2_037436)** 1996	EQUIP is a conservation program providing primarily cost-sharing assistance, but also technical and educational assistance, aimed at promoting production and environmental quality, and optimizing environmental benefits. 
+
+**[National Natural Resources Conservation Program](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/)** (1996): This program provides conservation districts and other conservation organizations funding for research, educational programs, and public outreach. 
+
+**[Source Water Protection Program](https://www.epa.gov/sourcewaterprotection)** (1996): Water technicians work with specialists from the USDA Natural Resources Conservation Service (NRCS) and state and county FSA staff, to identify areas where pollution prevention is most needed. Once identified, technicians work with state rural water associations to collaborate and create a Rural Source Water Protection Plan to promote clean source water. 
+
+**[Conservation Stewardship Program](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/csp/)** (2002):	Originally named the Conservation Security Program, it provides assistance to whole farms, offers farmers the opportunity to earn payments for actively managing, maintaining, and expanding conservation activities like cover crops, rotational grazing, ecologically-based pest management, buffer strips, and the transition to organic farming. 
+
+**[Organic Certification Cost Share Program](https://www.fsa.usda.gov/programs-and-services/occsp/index)** (2002): This program provides cost-share assistance to producers and handlers of agricultural products who are obtaining or renewing their National Organic Program certification.  
+
+**[Organic Agriculture Research & Extension Initiative](https://nifa.usda.gov/funding-opportunity/organic-agriculture-research-and-extension-initiative)** (2002): This is a competitive research grant program for integrated research, education, and extension projects that enhance the ability of organic producers and processors to grow and market organic agricultural products. 
+
+**[Conservation Innovation Grants](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/cig/)** (2004): USDA funding for development, application, and demonstration of innovative conservation technologies and approaches, specifically those that improve water quality, soil health, and wildlife habitat.  
+
+**[Specialty Crop Block Grant Program](https://www.ams.usda.gov/services/grants/scbgp)** (2006): The purpose of this program is to enhance the competitiveness of specialty crops. Specialty crops are defined as “fruits, vegetables, tree nuts, dried fruits, horticulture, and nursery crops (including floriculture).”
+
+**[Transition Incentives Program](https://www.fsa.usda.gov/programs-and-services/conservation-programs/transition-incentives/index)** (2008): This program creates an incentive for landowners to return land to production on an expiring CRP Contract in a way that preserves established conservation practices. It also provides an opportunity for beginning and socially disadvantaged farmers and ranchers to purchase their own land or rent land.
+
+**[Agriculture and Food Research Initiative](https://nifa.usda.gov/program/agriculture-and-food-research-initiative-afri)** (2008): The USDA awards research, education, and extension grants to improve rural economies, increase food production, stimulate the bioeconomy, mitigate impacts of climate variability, address water availability issues, ensure food safety and security, enhance human nutrition, and train the next generation of the agricultural workforce. It places a broad focus on plant health and breeding, sustainable ecosystems, and rural economies. 
+
+**[Food, Conservation, and Energy Act](https://www.congress.gov/bill/110th-congress/house-bill/2419)** (2008): USDA has granted millions of dollars dedicated exclusively to training the next generation of farmers and ranchers. 
+
+**[Biomass Crop Assistance Program](https://www.fsa.usda.gov/programs-and-services/energy-programs/index)** (2008): USDA provides financial assistance to owners and operators of agricultural and non-industrial private forest land who wish to establish, produce, and deliver biomass feedstocks. 
+
+**[Rural Energy for America Program](https://www.energy.gov/eere/solarpoweringamerica/rural-energy-america-program#:~:text=The%20Rural%20Energy%20for%20America,facilities%3B%20to%20use%20renewable%20technologies)** (2008): USDA grants available for farmers and rural businesses purchasing wind, solar, or other renewable energy systems. 
+
+**[Regional Conservation Partnership Program](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/rcpp/)** (2014): NRCS partners with state agencies, and non-governmental organizations to provide financial and technical assistance to farmers to install conservation activities to tackle natural resource concerns in a state or region. 
+
+**[Whole Farm Revenue Protection](https://www.rma.usda.gov/en/Policy-and-Procedure/Insurance-Plans/Whole-Farm-Revenue-Protection)** (2014): Crop insurance policy to level the playing field for producers underserved by other federal crop insurance options. This insurance plan is tailored to include farms with specialty or organic commodities (both crops and livestock), or those marketing to local, regional, farm-identity preserved, specialty, or direct markets.
+
+**[Agricultural Conservation Easement Program](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/easements/acep/)** (2014): A conservation easement program that combines three previously separate easement programs — the Wetlands Reserve Program (WRP), Grassland Reserve Program (GRP), and Farm and Ranch Lands Protection Program (FRPP). By combining these programs, granting a conservation easement is more streamlined and efficient. 
+
+**[Regional Food Systems Partnership](https://www.ams.usda.gov/sites/default/files/media/2020_RFSP_RFA.pdf)** (2018): USDA Grants to support partnerships and encourage foodshed-level approaches to planning and developing local and regional food economies.  
+
+**[Farming Opportunities Training and Outreach Program](https://sustainableagriculture.net/blog/closer-look-foto-2018-farmbill/)** (2018): USDA program designed to coordinate training and outreach to beginning, veteran, and socially disadvantaged farmers. 
+
+**[Local Agriculture Market Program](https://www.ams.usda.gov/content/usda-announces-23-million-grants-available-local-and-regional-food-systems)** (2018): Streamlined the Farmers Market and Local Food Promotion Program and the Value-Added Producers Grant Program to better coordinate local and regional food systems funding.  
+
+**[Urban Agriculture and Innovation Production Grants Program](https://www.fsa.usda.gov/news-room/news-releases/2020/usda-announces-grants-for-urban-agriculture-and-innovative-production)** (2020): Funding available from the USDA for projects supporting the development of urban agriculture and innovative production activities. 
+
+**[CLEAR30](https://www.fsa.usda.gov/Assets/USDA-FSA-Public/usdafiles/FactSheets/crp-clear30-pilot.pdf)** (2020): New pilot program by the USDA Farm Service Agency to providing eligible farmers and landowners with a 30-year contract to continue conservation practices to keep waterways clean.  
+
+**[Food Supply Protection Act](https://www.agriculture.senate.gov/newsroom/dem/press/release/ranking-member-stabenow-introduces-legislation-to-protect-americas-food-supply)** 	(2020):	This program has six main goals: Build soil health, increase agricultural research, support pasture-based livestock, reduce food waste, promote on-farm renewable energy, and ensure farmland preservation and viability. 
+
+**[Agricultural Resilience Act](https://www.congress.gov/bill/116th-congress/house-bill/5861?s=1&r=3)** (H.R. 5861, Introduced Feb. 2020): Focused on providing resources for American agriculture to transform into a system that can mitigate, rebound, and adapt to greater weather extremes. This proposed bill includes a call for more diversified cropping systems, crop-livestock integration, and processes to reduce methane emissions in livestock operations.  
+
+**[Farmer Driven Conservation Outcomes Act](https://www.congress.gov/bill/116th-congress/house-bill/6182?q=%7B%22search%22%3A%5B%22h+res+446%22%5D%7D&s=1&r=4)** 
+(H.R. 6182, Introduced Mar. 2020): This bill would strengthen federal conservation programs by authorizing and providing funding for the measurement, evaluation, and reporting of USDA’s farm bill conservation program outcomes.  
 
 
-
-Sustainable Agriculture Research & Agriculture Program	1988	Federal funding for projects to advance agricultural innovation that promotes profitability, stewardship of the land, air and water, and quality of life for farmers, ranchers and their communities. Primary grant programs include research and education grants, professional development grants and producer grants.
-
-https://www.sare.org/
-
-Organic Food Production Act 	1990	This program stablished uniform national standards for the production and handling of organic food. The Act authorized a new USDA National Organic Program (NOP) to set national standards for the production, handling, and processing of organically grown agricultural products. 
-
-https://www.ams.usda.gov/sites/default/files/media/Organic%20Foods%20Production%20Act%20of%201990%20(OFPA).pdf 
-
-Environmental Quality Incentives Program 	1996	EQUIP is a conservation program providing primarily cost-sharing assistance, but also technical and educational assistance, aimed at promoting production and environmental quality, and optimizing environmental benefits. 
-
-https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/financial/eqip/?cid=nrcs144p2_037436
-
-National Natural Resources Conservation Program 	1996	This program provides conservation districts and other conservation organizations funding for research, educational programs, and public outreach. 
-
-https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/
-
-Source Water Protection Program 	1996	Water technicians work with specialists from the USDA Natural Resources Conservation Service (NRCS) and state and county FSA staff, to identify areas where pollution prevention is most needed. Once identified, technicians work with state rural water associations to collaborate and create a Rural Source Water Protection Plan to promote clean source water. 
-
-https://www.epa.gov/sourcewaterprotection
-
-Conservation Stewardship Program 	2002	Originally named the Conservation Security Program, it provides assistance to whole farms, offers farmers the opportunity to earn payments for actively managing, maintaining, and expanding conservation activities like cover crops, rotational grazing, ecologically-based pest management, buffer strips, and the transition to organic farming. 
-
-https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/csp/
-
-Organic Certification Cost Share Program 	2002	This program provides cost-share assistance to producers and handlers of agricultural products who are obtaining or renewing their National Organic Program certification.  
-
-https://www.fsa.usda.gov/programs-and-services/occsp/index
-
-Organic Agriculture Research & Extension Initiative 	2002 	This is a competitive research grant program for integrated research, education, and extension projects that enhance the ability of organic producers and processors to grow and market organic agricultural products. 
-
-https://nifa.usda.gov/funding-opportunity/organic-agriculture-research-and-extension-initiative
-
-Conservation Innovation Grants 	2004	USDA funding for development, application, and demonstration of innovative conservation technologies and approaches, specifically those that improve water quality, soil health, and wildlife habitat.  
-
-https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/cig/
-
-Specialty Crop Block Grant Program 	2006	The purpose of this program is to enhance the competitiveness of specialty crops. Specialty crops are defined as “fruits, vegetables, tree nuts, dried fruits, horticulture, and nursery crops (including floriculture).”
-
-https://www.ams.usda.gov/services/grants/scbgp
-
-Transition Incentives Program	2008	This program creates an incentive for landowners to return land to production on an expiring CRP Contract in a way that preserves established conservation practices. It also provides an opportunity for beginning and socially disadvantaged farmers and ranchers to purchase their own land or rent land.
-
-https://www.fsa.usda.gov/programs-and-services/conservation-programs/transition-incentives/index
-
-Agriculture and Food Research Initiative	2008	The USDA awards research, education, and extension grants to improve rural economies, increase food production, stimulate the bioeconomy, mitigate impacts of climate variability, address water availability issues, ensure food safety and security, enhance human nutrition, and train the next generation of the agricultural workforce. It places a broad focus on plant health and breeding, sustainable ecosystems, and rural economies. 
-
-https://nifa.usda.gov/program/agriculture-and-food-research-initiative-afri
-
-Food, Conservation, and Energy Act 	2008	USDA has granted millions of dollars dedicated exclusively to training the next generation of farmers and ranchers. 
-
-https://www.congress.gov/bill/110th-congress/house-bill/2419
-
-Biomass Crop Assistance Program	2008	USDA provides financial assistance to owners and operators of agricultural and non-industrial private forest land who wish to establish, produce, and deliver biomass feedstocks. 
-
-https://www.fsa.usda.gov/programs-and-services/energy-programs/index
-
-Rural Energy for America Program 	2008	USDA grants available for farmers and rural businesses purchasing wind, solar, or other renewable energy systems. 
-
-https://www.energy.gov/eere/solarpoweringamerica/rural-energy-america-program#:~:text=The%20Rural%20Energy%20for%20America,facilities%3B%20to%20use%20renewable%20technologies
-
-Regional Conservation Partnership Program 	2014	NRCS partners with state agencies, and non-governmental organizations to provide financial and technical assistance to farmers to install conservation activities to tackle natural resource concerns in a state or region. 
-
-https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/rcpp/
-
-Whole Farm Revenue Protection	2014	Crop insurance policy to level the playing field for producers underserved by other federal crop insurance options. This insurance plan is tailored to include farms with specialty or organic commodities (both crops and livestock), or those marketing to local, regional, farm-identity preserved, specialty, or direct markets.
-
-https://www.rma.usda.gov/en/Policy-and-Procedure/Insurance-Plans/Whole-Farm-Revenue-Protection
-
-Agricultural Conservation Easement Program	2014	A conservation easement program that combines three previously separate easement programs — the Wetlands Reserve Program (WRP), Grassland Reserve Program (GRP), and Farm and Ranch Lands Protection Program (FRPP). By combining these programs, granting a conservation easement is more streamlined and efficient. 
-
-https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/easements/acep/
-
-Regional Food Systems Partnership	2018 	USDA Grants to support partnerships and encourage foodshed-level approaches to planning and developing local and regional food economies.  
-
-https://www.ams.usda.gov/sites/default/files/media/2020_RFSP_RFA.pdf
-
-Farming Opportunities Training and Outreach Program 	2018	USDA program designed to coordinate training and outreach to beginning, veteran, and socially disadvantaged farmers. 
-
-https://sustainableagriculture.net/blog/closer-look-foto-2018-farmbill/
-
-Local Agriculture Market Program 	2018	Streamlined the Farmers Market and Local Food Promotion Program and the Value-Added Producers Grant Program to better coordinate local and regional food systems funding.  
-
-https://www.ams.usda.gov/content/usda-announces-23-million-grants-available-local-and-regional-food-systems
-
-Urban Agriculture and Innovation Production Grants Program	2020	Funding available from the USDA for projects supporting the development of urban agriculture and innovative production activities. 
-
-https://www.fsa.usda.gov/news-room/news-releases/2020/usda-announces-grants-for-urban-agriculture-and-innovative-production
-
-CLEAR30 	2020	New pilot program by the USDA Farm Service Agency to providing eligible farmers and landowners with a 30-year contract to continue conservation practices to keep waterways clean.  
-
-https://www.fsa.usda.gov/Assets/USDA-FSA-Public/usdafiles/FactSheets/crp-clear30-pilot.pdf
-
-Food Supply Protection Act 	2020	This program has six main goals: Build soil health, increase agricultural research, support pasture-based livestock, reduce food waste, promote on-farm renewable energy, and ensure farmland preservation and viability. 
-
-https://www.agriculture.senate.gov/newsroom/dem/press/release/ranking-member-stabenow-introduces-legislation-to-protect-americas-food-supply
-
-Agricultural Resilience Act 
-(H.R. 5861)	Introduced Feb. 2020 
-	Focused on providing resources for American agriculture to transform into a system that can mitigate, rebound, and adapt to greater weather extremes. This proposed bill includes a call for more diversified cropping systems, crop-livestock integration, and processes to reduce methane emissions in livestock operations.  
-
-https://www.congress.gov/bill/116th-congress/house-bill/5861?s=1&r=3
-
-Farmer Driven Conservation Outcomes Act 
-(H.R. 6182)	Introduced Mar. 2020 	This bill would strengthen federal conservation programs by authorizing and providing funding for the measurement, evaluation, and reporting of USDA’s farm bill conservation program outcomes.  
-
-https://www.congress.gov/bill/116th-congress/house-bill/6182?q=%7B%22search%22%3A%5B%22h+res+446%22%5D%7D&s=1&r=4
 
 
 
