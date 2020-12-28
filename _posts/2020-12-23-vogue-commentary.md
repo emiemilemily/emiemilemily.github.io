@@ -21,5 +21,4 @@ like they were returning to traditional agricultural practices.
 The Global Restoration Project encourages those pursuing regenerative agriculture to think deeper.  Low-impact, carbon capturing agricultural practices are an important 
 step forward, but the deep agroecology for which we advocate envisions perennial polycultures.  The inclusion of cover crops, pollinator strips, and trap crops could be a 
 useful example of a polyculture but regenerative farming could be even more regenerative-- fewer chemicals, better crops, and more carbon sequestration-- if perennials were used. 
-Additionally, Farra mentions that brands will have to invest capital in regenerative farming methods; perennials could help lower costs for brands and farmers.  
-The Global Restoration Project remains hopeful and encouraged that fashion is a promising vehicle for moving these conversations into the mainstream. 
+Additionally, Farra mentions that brands will have to invest capital in regenerative farming methods; perennials could help lower costs for brands and farmers.  The Global Restoration Project remains hopeful and encouraged that fashion is a promising vehicle for moving these conversations into the mainstream. 
