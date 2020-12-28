@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Commentary: Vogue on Regenerative Agriculture
-subtitle: Fashion and Farming Move Beyond Sustainable
+title: Commentary- Vogue on Regenerative Agriculture
+subtitle: Fashion and Farming Move Beyond Sustainabilty
 cover-img: /assets/img/stubble_sunset.jpg
 tags: [commentary]
 comments: true
