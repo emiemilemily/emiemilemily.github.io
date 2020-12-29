@@ -4,7 +4,9 @@ title: Publications
 cover-img: /assets/img/aerial_green_field.jpg
 ---
 
-#### [Global Legal Regimes to Protect the World's Grasslands](https://cap-press.com/books/isbn/9781594609671/Global-Legal-Regimes-to-Protect-the-Worlds-Grasslands)
+**Although the Global Restoration Project does not itself publish books, we wish to highlight several books that have a close connection to the aims and operations of the Global Restoration Project.**  
+
+#### [Global Legal Regimes to Protect the World's Grasslands by John Head](https://cap-press.com/books/isbn/9781594609671/Global-Legal-Regimes-to-Protect-the-Worlds-Grasslands)
 
 Grasslands, prairies, and savannas once covered much of the Earth’s surface. Human action has visited great damage on those natural features, so that today 
 most of them have either disappeared or suffered severe degradation as a result of agricultural conversion, over-grazing, urbanization, species encroachment, 
@@ -19,13 +21,13 @@ crucial aspect of our natural environment. He then offers observations both on �
 relationship between agriculture and grasslands and on the role that international law and institutions might play in undertaking an aggressive program of action to 
 protect the world’s grasslands for succeeding generations of our species and others.
 
-#### [International Law and Agroecological Husbandry](https://www.routledge.com/International-Law-and-Agroecological-Husbandry-Building-legal-foundations/Head/p/book/9780367029876)
+#### [International Law and Agroecological Husbandry by John Head](https://www.routledge.com/International-Law-and-Agroecological-Husbandry-Building-legal-foundations/Head/p/book/9780367029876)
 
 Remarkable advances are being made in life science and agricultural research to reform the methods of food production, particularly with regard to staple grain and legume crops, in ways that will better reflect ecological realities. However, advances in science may be insufficient to ensure that these possibilities for agricultural reform are realized in practice and in a sustainable way. This book shows how these can only be achieved through changes in legal norms and institutions at the global level. 
 
 Interdisciplinary in character, the book draws from a range of issues involving agricultural innovation, international legal history and principles, treaty commitments, global institutions, and environmental challenges, such as climate change, to propose broad legal changes for transforming global agriculture. It first shows how modern extractive agriculture is unsustainable on economic, environmental, and social grounds. It then examines the potential for natural-systems agriculture (especially perennial-polyculture systems) for overcoming the deficiencies of modern extractive agriculture, especially to offset climate change. Finally it analyses closely the legal innovations that can be adopted at national and international levels to facilitate a transition from modern extractive agriculture to a system based more on ecological principles. In particular the author argues for the creation of a Global Convention on Agroecology.
 
-#### [A Global Corporate Trust for Agroecological Integrity](https://www.routledge.com/A-Global-Corporate-Trust-for-Agroecological-Integrity-New-Agriculture-in/Head/p/book/9780367252557)
+#### [A Global Corporate Trust for Agroecological Integrity by John Head](https://www.routledge.com/A-Global-Corporate-Trust-for-Agroecological-Integrity-New-Agriculture-in/Head/p/book/9780367252557)
 
 This book examines global environmental governance and how legal, institutional, and conceptual reform can facilitate a transformation to a new ‘natural-systems’ form of agriculture.
 
