@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Fighting the Anthropocene
-subtitle: Conceptualizing the Concept
+subtitle: Invited Essay
 cover-img: /assets/img/person_tossing_globe.jpg
 thumbnail-img: /assets/img/person_tossing_globe.jpg
-share-img: /assets/img/path.jpg
 tags: [invited_essays]
 ---
-#### Fighting the Anthropocene
+### Fighting the Anthropocene
 
-Author:  Holly Aker
+**Author:  Holly Aker**
 
 Technically, the decision of whether or not humans have shifted our current epoch to a point where it earns a separate place on the geological time scale is a 
 determination by physical science. The designation can only occur if a series of votes by bodies of geologists favor the distinction. These geologists are looking 
