@@ -7,11 +7,7 @@ tags: [essays]
 ---
 **Author: Emily Otte**
 
-Agriculture is a singular industry.  In the modern era, to be a farmer is to be botanist, chemist, commodities trader, and mechanic.  
-All of the technological progress collides in agriculture and produces phenomena like new seed hybrids every year, new herbicide, new soil analysis tools, 
-new “bells and whistles” on the machinery, the list goes on and on.  I come from a long line of farmers and remain connected to agriculture; my father is a 
-farmer and members of my extended family still farm.  My family are the descendants of Russian Mennonites and I often heard my grandmother boast that the 
-Mennonites are to be credited for turning Kansas into the Breadbasket of the World.  
+Agriculture is a singular industry.  In the modern era, to be a farmer is to be botanist, chemist, commodities trader, and mechanic.  All of the technological progress collides in agriculture and produces phenomena like new seed hybrids every year, new herbicide, new soil analysis tools, new “bells and whistles” on the machinery, the list goes on and on.  I come from a long line of farmers and remain connected to agriculture; my father is a farmer and members of my extended family still farm.  My family are the descendants of Russian Mennonites and I often heard my grandmother boast that the Mennonites are to be credited for turning Kansas into the Breadbasket of the World.  
 
 Agriculture is in the unique position of being both one of the first victims of climate change and a cause of climate change.  Farmers are on the front lines of 
 climate change, subject to the whims of the weather.  But agriculture contributes to the climate crisis and degradation of the environment, putting farmers in the
@@ -28,6 +24,7 @@ infinitesimal, informal process is nowhere near a “sample size” that can be 
 I hope might be a tiny bit useful to anyone proposing agricultural reforms.   
 
 **Lesson 1:  We are not speaking the same language.** 	
+
 In a story on Fox News, entitled *Do You Speak Fox*, journalist Megan Garber of *The Atlantic* writes, “You might have observed, lately, how Americans seem always to be 
 talking past one another--how we’re failing one another even at the level of our vernacular.”  Garber describes how media can create an identity around terms. To name a few:
 deep state, mainstream media, socialism, and liberty.  Based on my conversations and experiences with farmers, I would extend Garber’s observation to a few more terms:
@@ -44,6 +41,7 @@ climate change is a real threat--is unlikely to be effective; iit doesn’t take
 is the solution, discussed below, might be to speak chiefly in economic terms.
 
 **Lesson 2: Farmer attitudes toward climate change are hard to gauge.** 	
+
 Sociologist Dr. J. Arbuckle of Iowa State University conducts the Iowa Farm and Rural Life Poll, an annual survey of farmers covering a wide variety of issues affecting 
 agriculture.  Dr. Arbuckle has noted a “paucity of literature on farmers’ understandings of and response to climate change.”[^4]  This lack of knowledge is concerning, 
 given that farmers are on the front lines of climate change.  
@@ -73,6 +71,7 @@ Kansas precipitation is volatile, with farmers at its mercy, and the potential e
 precarious and fragile.  
 
 **Lesson 3:  Money over everything.**	
+
 I left the interviews with the conclusion that the cornerstone for any agricultural reform must be profitability.  A farm is, after all, a business (as I was reminded many
 times).  Farms are facing skyrocketing operating costs and struggling grain prices (as I was reminded many times).  New combines cost more than a house and patented seeds 
 with the latest technology are expensive.  Though techniques like strip-till and no-till lower fuel costs but the money saved on fuel pales into comparison to the cost of 
@@ -95,6 +94,7 @@ This lesson is embraced by the Global Restoration Project.  As described in deta
 - Accordingly, perennial polycultures could easily have the upper hand on the current annual monoculture system.  This bodes well for widespread adoption of perennial polyculture agriculture. 
 
 **Lesson 4: Innovation is nearby.**  
+
 A common rural parlance is, “I know a guy.”  The farmers I chatted with did not personally engage in any kind of organic practices, plant perennial grains, or plant 
 polycultures.  However, they knew of a local farmer who was engaging in “non-traditional” agriculture practices.  In fact, near my family’s farm is a field of perennial 
 wheat.  Before I visited the field, I heard insinuations that the wheat field was a weedy mess; I found the field in fine shape, with more than one year of growth that had 
