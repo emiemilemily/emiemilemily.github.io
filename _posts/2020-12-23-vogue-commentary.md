@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Commentary- Vogue on Regenerative Agriculture
-subtitle: Fashion and Farming Move Beyond Sustainabilty
+title: Vogue on Regenerative Agriculture
+subtitle: Commentary
 cover-img: /assets/img/stubble_sunset.jpg
 tags: [commentary]
-comments: true
 ---
+
+### Commentary: Regenrative Agriculture Featured in *Vogue* as Fashion Moves Beyond Sustainability
+
 [Regenerative Agriculture Can Change the Fashion Industry--And the World.  But What Is It? By Emily Farra](https://www.vogue.com/article/regenerative-agriculture-sustainable-fashion-christy-dawn-fibershed)
 
 Journalist Emma Farra wrote a thoughtful, useful primer on “regenerative agriculture” in fashion for Vogue.  The Global Restoration Project sees regenerative agriculture as 
