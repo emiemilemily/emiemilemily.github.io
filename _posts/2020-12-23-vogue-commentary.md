@@ -6,7 +6,7 @@ cover-img: /assets/img/stubble_sunset.jpg
 tags: [commentary]
 ---
 
-### Commentary: Regenrative Agriculture Featured in *Vogue* as Fashion Moves Beyond Sustainability
+### Commentary: Regenerative Agriculture Featured in *Vogue* as Fashion Moves Beyond Sustainability
 
 [Regenerative Agriculture Can Change the Fashion Industry--And the World.  But What Is It? By Emily Farra](https://www.vogue.com/article/regenerative-agriculture-sustainable-fashion-christy-dawn-fibershed)
 
