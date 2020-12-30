@@ -295,41 +295,78 @@ Currently, the global seed market is dominated by a small number of private agri
 
 **Bibliography**
 Agreement on Trade-Related Aspects of Intellectual Property Rights, Apr. 15, 1994 Marrakesh Agreement Establishing the World Trade Organization, Annex 1C, Art. 27.3(b), 1869 U.N.T.S. 3; 33 I.L.M. 1197 (1994).
+
 Carlos M. Correa, The Access Regime and the Implementation of the FAO International Treaty on Plant Genetic Resources for Food and Agriculture in the Andean Group Countries, 6 J. World Intell. Prop. 795, 802 (2003).
+
 Center for Food Safety & Save Our Seeds, Seed Giants vs. U.S. Farmers, 14 (2013), available at http://www.centerforfoodsafety.org/files/seed-giants_final_04424.pdf.
+
 Charles Lawson, The Breeder’s Exemption Under UPOV 1991, the Convention on Biological Diversity and its Nagoya Protocol, 10 J. Intell. Prop. L. & Prac. 526, 527 (2015).
+
 Commission on Genetic Resources for Food and Agriculture, Genebank Standards for Plant Genetic Resources for Food and Agriculture, 2 (2014), available at http://www.fao.org/3/a-i3704e.pdf.
+
 Commission on Genetic Resources for Food and Agriculture, Second Global Plan of Action for Plant Genetic Resources for Food and Agriculture, 4 (2011), available at http://www.fao.org/3/i2624e/i2624e00.pdf.
+
 Commission on Genetic Resources for Food and Agriculture, Synthetic Account of the Second Global Plan of Action for Plant Genetic Resources for Food and Agriculture, 6 (2012), available at http://www.fao.org/3/i2650e/i2650e.pdf.
+
 Commission on Genetic Resources for Food and Agriculture, The Second Report on the State of the World’s Plant Genetic Resources for Food and Agriculture, 110 (2010), available at http://www.fao.org/3/i1500e/i1500e.pdf.
+
 Commission on Genetic Resources for Food and Agriculture, The State of the World’s Biodiversity for Food and Agriculture, 66 (2019), available at http://www.fao.org/3/ca3129en/CA3129EN.pdf.
+
 Commission on Genetic Resources for Food and Agriculture, The State of the World’s Biodiversity for Food and Agriculture, 115 (2019), available at http://www.fao.org/3/ca3129en/CA3129EN.pdf
+
 Commission on Genetic Resources for Food and Agriculture, Topics: Plant Genetic Resources (last accessed November 14, 2020), available at http://www.fao.org/cgrfa/topics/plants/en/.
+
 Convention on Biodiversity, List of Parties (last accessed November 14, 2020), available at https://www.cbd.int/information/parties.shtml.
+
 Convention on Biological Diversity, Art. 1, June 5, 1992, 1760 U.N.T.S. 79, 143; 31 I.L.M. 818 (1992).
+
 Cox et al., Breeding Perennial Grain Crops, 21 Critical Reviews in Plant Sciences 59, 60 (2002).
+
 Dana Varinsky, The $66 Billion Bayer-Monsanto Merger Just Got a Major Green Light—But Farmers are Terrified, Business Insider (May 29, 2018), available at https://www.businessinsider.com/bayer-monsanto-merger-has-farmers-worried-2018-4.
+
 FAO, Save and Grow. A policymaker’s guide to the sustainable intensification of smallholder crop production, (2011), available at http://www.fao.org/docrep/014/i2215e/i2215e.pdf.
+
 Food and Agriculture Organization of the United Nations, International Treaty on Plant Genetic Resources for Food and Agriculture: Overview (last accessed November 14, 2020), available at http://www.fao.org/plant-treaty/overview/en/.
+
 Food and Agriculture Organization of the United Nations, International Treaty on Plant Genetic Resources for Food and Agriculture: Membership (last accessed November 14, 2020), available at http://www.fao.org/plant-treaty/countries/membership/en/.
+
 Global Crop Diversity Trust, Svalbard Global Seed Vault Fact Sheet.(last accessed  November 14, 2020), available at https://cdn.croptrust.org/wp/wp-content/uploads/2018/11/Svalbard-2-Pager.pdf.
+
 GRAIN, UPOV 91 and Other Seed Laws: A Basic Primer On How Companies Intend to Control and Monopolise Seeds, 4 (2015), available at https://www.grain.org/article/entries/5314-upov-91-and-other-seed-laws-a-basic-primer-on-how-companies-intend-to-control-and-monopolise-seeds?.
+
 Gregory Rose, International Law of Sustainable Agriculture in the 21st Century: The International Treaty on Plant Genetic Resources for Food and Agriculture, 15 Geo. Int'l Envtl. L. Rev. 583, 588-89 (2003).
+
 International Convention for the Protection of New Varieties of Plants, Art. 2, Dec. 2, 1961, S. Treaty Doc. No. 104-17 (1991).
+
 International Treaty on Plant Genetic Resources for Food and Agriculture, with Annexes, Art. 11.1, Nov. 3, 2001, T.I.A.S. 17-313.
+
 International Undertaking on Plant Genetic Resources, Art. 1, FAO Res. 8/83 (Nov. 23, 1983).
+
 International Union for the Protection of New Varieties of Plants, UPOV Report on the Impact of Plant Variety Protection, 25 (2005), available at https://www.upov.int/export/sites/upov/about/en/pdf/353_upov_report.pdf.
+
 International Union for the Protection of New Varieties of Plants, Members of the International Union for the Protection of New Varieties of Plants, (status on February 3, 2020), available at https://www.upov.int/edocs/pubdocs/en/upov_pub_423.pdf.
+
 Jessica P. R. Thorn, Kew Royal Botanical Gardens State of the World’s Plants 2016, 72 (2016), available at https://stateoftheworldsplants.org/2016/report/sotwp_2016.pdf.
+
 Martin Mascher et al., Genebank Genomics Bridges the Gap between the Conservation of Crop Diversity and Plant Breeding, 51 Nature Genetics 1076 (2019).
+
 Maxted N, Magos Brehm J and Kell S, Resource Book for the Preparation of National Plans for Conservation of Crop Wild Relatives and Landraces, 2 (2013).
+
 Monica Rosell, Access to Genetic Resources: A Critical Approach to Decision 391 “Common Regime on Access to Genetic Resources” of the Cartagena Agreement, 6 Rev. of Eur. Community & Int’l Envtl. L. 274, 274 (1997).
+
 Muriel Lightbourne, The Fao Multilateral System for Plant Genetic Resources for Food and Agriculture: Better Than Bilateralism?, 30 Wash. U. J.L. & Pol'y 465, 465 (2009).
+
 Pablo Pellegrini & Galo Balatti, Noah’s Arks in the XXI Century. A Typology of Seed Banks, 25 Biodiversity and Conservation 2753, 2755 (2016).
+
 Ryann Beck, Farmers' Rights and Open Source Licensing, 1 Ariz. J. Envtl. L. & Pol'y 167, 184 (2011).
+
 U.S. Mission to the UN Agencies in Rome, The United States Joins the International Treaty on Plant Genetic Resources for Food and Agriculture (April 14, 2017), available at https://usunrome.usmission.gov/united-states-joins-international-treaty-plant-genetic-resources-food-agriculture/.
+
 United Nations Division for Sustainable Development Goals, Commission on Genetic Resources for Food and Agriculture (CGRFA), (last accessed November 14, 2020), available at https://sustainabledevelopment.un.org/index.php?page=view&type=30022&nr=180&menu=3170.
+
 Wes Jackson, Natural Systems Agriculture: a Truly Radical Alternative, 88 Agriculture, Ecosystems & Envir. 111, 113 (2002).
+
 Wim H. Van der Putten, Are Perennial Crops More Adapted to Maintain Long-Term Relationships With Soils And, Therefore, To Sustainable Production systems, Soil Restoration and Conservation?, Perennial Crops For Food Security; Proceeding of the FAO Expert Workshop, 253 (2013), available at http://www.fao.org/3/a-i3495e.pdf.
+
 Zulmarie Urrutia-Vélez, Biopiracy: Is There A Need for A More Extensive Definition of "Novelty" Within the Context of Us Patent Laws?, 2 U. Puerto Rico Bus. L.J. 323, 327 (2011).
 
