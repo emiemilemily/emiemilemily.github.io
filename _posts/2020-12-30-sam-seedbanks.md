@@ -2,7 +2,7 @@
 layout: post
 title: Legal Regimes Governing Seeds
 subtitle: Working Paper
-cover-img: /assets/img/empty_grassland.jpg
+cover-img: /assets/img/grass_zoom_tan.jpg
 tags: [working_paper]
 ---
 
