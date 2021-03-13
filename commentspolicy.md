@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Global Restoration Project Comments Policy
+title: GRP Blog Comments Policy
 ---
 
 #### Testing 1, 2, 3
 
-We welcome all kinds of comments
+We welcome all relevant and respectful comments.  Off-topic comments may be removed.  
